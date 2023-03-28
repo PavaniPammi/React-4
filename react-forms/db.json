@@ -18,37 +18,15 @@
   ],
   "two": [
     {
-      "name": "Pavani",
-      "email": "pavanipammi31@gmail.com",
-      "password": "12345",
-      "phoneNumber": "8688843208",
-      "gender": "Female",
-      "language": "",
-      "zipcode": "522403",
-      "about": "Hi all",
-      "id": 1
-    },
-    {
       "name": "Pammi Pavani",
       "email": "pavanipammi31@gmail.com",
-      "password": "98765",
+      "password": "ddDd",
       "phoneNumber": "08688843208",
       "gender": "Female",
-      "language": "Telugu",
-      "zipcode": "522403",
-      "about": "Hi",
+      "language": "English",
+      "zipcode": "1111111",
+      "about": "DdDd",
       "id": 2
-    },
-    {
-      "name": "Pammi Pavani",
-      "email": "pavanipammi31@gmail.com",
-      "password": "",
-      "phoneNumber": "08688843208",
-      "gender": "",
-      "language": "",
-      "zipcode": "522403",
-      "about": "",
-      "id": 3
     }
   ]
 }
